@@ -15,7 +15,7 @@ int main() {
 
     /* Optionally, set the I2C address before initializing
      * the LCD by calling lcd_seti2caddr(int addr).
-     * The library initializes to address 0x3F.
+     * The library default-initializes to address 0x3F.
      */
 
     lcd_init(i2c_default, 400 * 1000);
