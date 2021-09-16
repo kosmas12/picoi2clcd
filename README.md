@@ -1,7 +1,7 @@
 # picoi2clcd
 
-A C library to control I2C LCD libraries using the Rapsberry
-Pi Pico (or just the bare RP2040 microcontroller).
+A C library to control I2C LCD displays using the Rapsberry
+Pi Pico (or really any board using the RP2040 microcontroller).
 
 # License
 
